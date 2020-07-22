@@ -1,6 +1,7 @@
 # Naver-Realtime-Search
 ## How to use
 ```
-npm install axios
-npm install cheerio
+npm install axios @types/axios
+npm install cheerio @types/cheerio
+npm install @types/node
 ```
