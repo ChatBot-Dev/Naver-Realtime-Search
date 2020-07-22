@@ -1,6 +1,6 @@
 # Naver-Realtime-Search
 ## How to use
-```script
+```sh
 npm install axios
 npm install cheerio
 ```
